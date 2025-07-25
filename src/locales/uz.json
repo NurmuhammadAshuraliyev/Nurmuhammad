@@ -1,0 +1,40 @@
+{
+  "home": "Bosh sahifa",
+  "about": "Haqimda",
+  "skills": "Ko'nikmalar",
+  "projects": "Loyihalar",
+  "contact": "Bog'lanish",
+  "languages": "Tillar",
+  "hero": "Ashuraliyev Nurmuhammad, Full Stack dasturchiman.",
+  "subtitle": "Kod — mening ifoda uslubim.",
+  "footer": {
+    "copyright": "© {{year}} Nurmuhammadning portfoliosi. Barcha huquqlar himoyalangan.",
+    "built": "React va Tailwind CSS yordamida yaratilgan"
+  },
+  "aboutt": {
+    "p1": "Assalomu alaykum!",
+    "p2": "Man Ashuraliyev Nurmuhammad — Full Stack dasturchiman.",
+    "p3": "React, Tailwind CSS va zamonaviy veb texnologiyalar yordamida foydalanuvchi uchun qulay, tezkor va estetik veb sahifalar yaratishni yoqtiraman. Mening asosiy maqsadim — har bir loyiha orqali insonlarga real foyda keltiradigan, amaliy yechimlar taklif etadigan mahsulotlar ishlab chiqishdir.",
+    "p4": "Dasturlash — bu men uchun nafaqat kasb, balki ichki ehtiyoj. Har bir yozgan kodim orqali o‘zimni ifoda etaman, har bir dizayn elementida esa fikr va minimalizmga asoslangan yondashuvim mujassam. Soddalik va funksionallikni birlashtirgan yechimlar yaratishga intilaman.",
+    "p5": "Men uchun kod — bu ifoda uslubi, dizayn esa tafakkurning aksidir. Minimalizm — asosiy tamoyilim.",
+    "p6": "Maqsadim — Texnologiyalar doimiy rivojlanmoqda, va men bu jarayonning bir bo‘lagi bo‘lishni, yangi bilimlarni o‘rganib, ularni amaliyotga joriy qilishni chin dildan xohlayman. Mening ishimda asosiy qadriyat — foydalanuvchi tajribasi. Har bir sahifa, har bir komponent — bu foydalanuvchi bilan muloqotning shakli."
+  },
+  "myskills": {
+    "title": "Ko‘nikmalar",
+    "description": "Quyidagi texnologiyalar bilan ishlash bo‘yicha tajribam bor."
+  },
+  "myprojects": {
+    "title": "Loyihalarim",
+    "taskAppDescription": "NestJS va Prisma yordamida yaratilgan to'liq funksional backend tizim. Loyihada foydalanuvchi autentifikatsiyasi, video yuklash, analytics va to'liq REST API funksiyalari amalga oshirilgan.",
+    "taskAppDescription2": "Zamonaviy kino va serial platformasi. Foydalanuvchilar sevimli kinolarini qidirishlari, reytinglash va sharhlash imkoniyatiga ega. Responsive dizayn va foydalanuvchi-do'st interfeys bilan yaratilgan.",
+    "taskAppDescription3": "Real-time chat ilovasi. Foydalanuvchilar guruhlarda yoki shaxsiy xabar almashishi mumkin. Socket.io texnologiyasi yordamida tezkor xabar almashish va online status ko'rsatish funksiyalari.",
+    "taskAppDescription4": "Xodimlar, o'quvchilar, kurslar, guruhlar, darslar, davomat va to'lovlarni samarali boshqarish platformasi. JWT autentifikatsiyasi va rollarga asoslangan avtorizatsiya (SuperAdmin, Admin, Teacher, Student) bilan himoyalangan. PostgreSQL bazasi va RESTful API orqali modullarga bo'lingan kengaytirilishi mumkin bo'lgan tizim."
+  },
+  "submittedData": "Yuborilgan ma'lumot",
+  "messageSent": "Xabaringiz yuborildi",
+  "contactUs": "Man bilan bog‘laning",
+  "yourName": "Ismingiz",
+  "yourEmail": "Email manzilingiz",
+  "yourMessage": "Xabaringiz",
+  "send": "Yuborish"
+}

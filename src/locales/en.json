@@ -1,0 +1,47 @@
+{
+  "home": "Home",
+  "about": "About",
+  "skills": "Skills",
+  "projects": "Projects",
+  "contact": "Contact",
+  "languages": "Languages",
+  "hero": "I’m Ashuraliyev Nurmuhammad, Full Stack Developer.",
+  "subtitle": "Code is my form of expression.",
+  "footer": {
+    "copyright": "© {{year}} Nurmuhammad's portfolio. All rights reserved.",
+    "built": "Built with React and Tailwind CSS"
+  },
+  "aboutt": {
+    "p1": "Hello!",
+    "p2": "I am Ashuraliyev Nurmuhammad — a Full Stack Developer.",
+    "p3": "I enjoy creating user-friendly, fast, and visually appealing web pages using React, Tailwind CSS, and modern web technologies. My main goal is to develop products that bring real value to people and offer practical solutions through each project.",
+
+    "p4": "Programming is not just a profession for me — it's an inner drive. Through every line of code, I express myself, and in every design element, my approach based on thought and minimalism is reflected. I strive to create solutions that combine simplicity and functionality.",
+
+    "p5": "For me, code is a form of self-expression, and design is a reflection of thought. Minimalism is my core principle.",
+
+    "p6": "My goal is to be part of the ever-evolving world of technology, to continuously learn new things, and apply them in practice. In my work, the user experience is my top priority. Every page, every component — is a form of communication with the user."
+  },
+  "myskills": {
+    "title": "Skills",
+    "description": "I have experience working with the following technologies."
+  },
+  "myprojects": {
+    "title": "My Projects",
+
+    "taskAppDescription": "A fully functional backend system built with NestJS and Prisma. The project includes user authentication, video uploading, analytics, and a complete REST API implementation.",
+
+    "taskAppDescription2": "A modern movie and TV series platform. Users can search for their favorite titles, rate, and leave comments. Designed with a responsive layout and a user-friendly interface.",
+
+    "taskAppDescription3": "A real-time chat application where users can exchange messages in groups or one-on-one. Features fast messaging and online status indication using Socket.io technology.",
+
+    "taskAppDescription4": "A comprehensive platform for managing employees, students, courses, groups, lessons, attendance, and payments. Secured with JWT authentication and role-based authorization (SuperAdmin, Admin, Teacher, Student). Built with PostgreSQL and structured into scalable, modular components using RESTful APIs."
+  },
+  "submittedData": "Submitted Data",
+  "messageSent": "Your message has been sent",
+  "contactUs": "Contact Me",
+  "yourName": "Your Name",
+  "yourEmail": "Your Email",
+  "yourMessage": "Your Message",
+  "send": "Send"
+}
